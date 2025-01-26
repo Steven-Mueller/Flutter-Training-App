@@ -1,4 +1,4 @@
-<h1 align="center"> Flutter Trainings-App </h1>
+<h1 align="center"> 🏆Flutter Trainings-App🏆 </h1>
 <div align="center">
   
 ![overview](https://github.com/user-attachments/assets/6ec8d437-6a8e-4411-b4b5-23ee89680008)
@@ -10,7 +10,7 @@
 
 ## 
 
-**Genutzt wurde:**
+**🔨Genutzt wurde:**
 <ul>
   <li>Openweather API</li>
   <li>http Package</li>
