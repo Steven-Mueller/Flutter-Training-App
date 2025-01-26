@@ -1,17 +1,19 @@
-# flutter_application_1
+<h1 align="center"> Flutter Trainings-App </h1>
+<div align="center">
+  
+![overview](https://github.com/user-attachments/assets/6ec8d437-6a8e-4411-b4b5-23ee89680008)
+![bmi](https://github.com/user-attachments/assets/51605c7d-29ef-4c91-8945-337183a008ec)
+![weather](https://github.com/user-attachments/assets/e407442b-2784-4141-af2b-ea89e3165b16)
+![training](https://github.com/user-attachments/assets/14d4ab63-92b3-4dcc-9392-4b1b2ce1c9f9)
 
-A new Flutter project.
+</div>
 
-## Getting Started
+## 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-[Training-App.webm](https://github.com/user-attachments/assets/3850d03d-8bca-4db4-b969-124027bf0518)
+**Genutzt wurde:**
+<ul>
+  <li>Openweather API</li>
+  <li>http Package</li>
+  <li>shared_preferences Package</li>
+  <li>VS Code</li>
+</ul>
